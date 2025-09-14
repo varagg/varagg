@@ -1,48 +1,49 @@
 <!-- Typing SVG Banner -->
 <p align="center">
-  <a href="https://github.com/poovaragamukeshkumar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Postgraduate+Student;IoT+Explorer;Cybersecurity+Enthusiast;Coffee+Addict+☕;Friendship+%26+Sarcasm+Specialist" alt="Typing SVG" />
+  <a href="https://github.com/varagg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=Hello%2C+World...+again.;They+told+me+to+introduce+myself.;So+here+I+am.;Sarcasm+included+free+of+charge." alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## Hey! I’m Varag 👋  
+## Hello everyone 👋 I’m Varag  
 
-Some say postgraduate life is about research, discipline, and shaping the future of technology.  
-I say it’s mostly about surviving on coffee, pretending I understand what “cutting-edge” really means,  
-and questioning why my WiFi router suddenly blinks like it’s plotting against me.  
+If you came here expecting a polished “Hi, I’m a developer with 5 years of experience blah blah,”  
+sorry — wrong door.  
 
-I wander around the endless maze of tech — fascinated by IoT, obsessed with cybersecurity,  
-and skeptical about anything that claims to be “secure by default.”  
-My days are split between debugging life, laughing at my own jokes,  
-and convincing my friends that yes, firewalls *are* cool.  
+I’m a postgraduate student who spends most of my time poking around **IoT devices** and  
+asking existential questions like *“why is my smart fridge updating firmware at 3 AM?”*  
 
-So, if you’re looking for another polished tech profile,  
-sorry to disappoint — I’m more of a “curious skeptic who breaks and secures things for fun.” 
+Cybersecurity is my playground — not because I love breaking things (okay, maybe a little),  
+but because I don’t trust anything that claims to be “secure by default.”  
+
+When I’m not reading packets on Wireshark or pretending to configure Linux like a wizard,  
+I’m either:  
+☕ Overdosing on coffee,  
+😂 Making bad jokes my friends still laugh at (out of pity),  
+🤔 Or staring at my router wondering if it’s secretly judging me.  
 
 ---
 
-### 🚀 Tech Stack   
+### 🛠️ Tech Stuff I Mess Around With  
 
 ![IoT](https://img.shields.io/badge/-IoT-0078D6?logo=raspberrypi&logoColor=white)  
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-800080?logo=protonvpn&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 
-
 ---
 
-### 📊 GitHub Stats  
+### 🎭 A little philosophy  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varagg&show_icons=true&theme=midnight-purple&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varagg&layout=compact&theme=midnight-purple&hide_border=true" height="180px"/>
-</p>
+Tech is fun. Security is chaos. Life is somewhere between those two.  
+I don’t promise polished repos or enterprise-ready code here —  
+what you’ll find instead is curiosity, experiments, and maybe a few rabbit holes  
+that I’m still figuring out myself.  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varagg&theme=midnight-purple&hide_border=true" height="180px"/>
-</p>
-
----
+If you stuck around reading till here, congrats — you’ve officially wasted more time  
+on my README than I did writing it.  
