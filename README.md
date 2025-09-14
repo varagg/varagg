@@ -1,9 +1,10 @@
 <!-- Typing SVG Banner -->
 <p align="center">
   <a href="https://github.com/varagg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=9D00FF&center=true&vCenter=true&width=800&lines=Hello%2C+World...+again.;Still+pretending+I+know+what+I'm+doing.;Cybersecurity+is+just+paranoia+with+a+cool+name.;IoT+devices+don't+need+firmware+updates+at+3AM.;Fueled+by+coffee+%26+sarcasm.;Welcome+to+my+README+therapy+session.">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1100&color=FF4500&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Varag.;Yes%2C+another+developer+profile...;Mostly+IoT%2C+Cybersecurity%2C+and+bad+jokes.;Coffee+is+my+operating+system.;Memes+are+my+debugging+tool.;This+README+is+my+personality+dump.">
   </a>
 </p>
+
 
 ---
 
@@ -20,6 +21,7 @@ Cybersecurity is my playground — not because I love breaking things (okay, may
 but because I don’t trust anything that claims to be “secure by default.”  
 
 When I’m not reading packets on Wireshark or pretending to configure Linux like a wizard,  
+
 I’m either:  
 ☕ Overdosing on coffee,  
 😂 Making bad jokes my friends still laugh at (out of pity),  
