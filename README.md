@@ -30,8 +30,6 @@ I’m either:
 
 ![IoT](https://img.shields.io/badge/-IoT-0078D6?logo=raspberrypi&logoColor=white)  
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-800080?logo=protonvpn&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
