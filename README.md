@@ -37,12 +37,12 @@ sorry to disappoint — I’m more of a “curious skeptic who breaks and secure
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poovaragamukeshkumar&show_icons=true&theme=midnight-purple&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poovaragamukeshkumar&layout=compact&theme=midnight-purple&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=varagg&show_icons=true&theme=midnight-purple&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varagg&layout=compact&theme=midnight-purple&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poovaragamukeshkumar&theme=midnight-purple&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varagg&theme=midnight-purple&hide_border=true" height="180px"/>
 </p>
 
 ---
