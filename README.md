@@ -1,16 +1,42 @@
-## Hi there 👋
+<!-- Typing SVG Banner -->
+<p align="center">
+  <a href="https://github.com/poovaragamukeshkumar">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Postgraduate+Student;IoT+Explorer;Cybersecurity+Enthusiast;Coffee+Addict+☕;Friendship+%26+Sarcasm+Specialist" alt="Typing SVG" />
+  </a>
+</p>
 
-<!--
-**varagg/varagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Hey! I’m Varag 👋  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some say postgraduate life is about research, discipline, and shaping the future of technology.  
+I say it’s mostly about surviving on coffee, pretending I understand what “cutting-edge” really means,  
+and questioning why my WiFi router suddenly blinks like it’s plotting against me.  
+
+I wander around the endless maze of tech — fascinated by IoT, obsessed with cybersecurity,  
+and skeptical about anything that claims to be “secure by default.”  
+My days are split between debugging life, laughing at my own jokes,  
+and convincing my friends that yes, firewalls *are* cool.  
+
+So, if you’re looking for another polished tech profile,  
+sorry to disappoint — I’m more of a “curious skeptic who breaks and secures things for fun.” 
+
+---
+
+### 🚀 Tech Stack  
+![IoT](https://img.shields.io/badge/-IoT-0078D6?logo=raspberrypi&logoColor=white)  
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-black?logo=protonvpn&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+
+---
+
+### 📊 GitHub Stats  
+![Varag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=poovaragamukeshkumar&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poovaragamukeshkumar&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=poovaragamukeshkumar&theme=radical)  
+
+---
