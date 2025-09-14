@@ -23,12 +23,17 @@ sorry to disappoint — I’m more of a “curious skeptic who breaks and secure
 
 ---
 
-### 🚀 Tech Stack  
+### 🚀 Tech Stack   
 ![IoT](https://img.shields.io/badge/-IoT-0078D6?logo=raspberrypi&logoColor=white)  
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-800080?logo=protonvpn&logoColor=white)
+
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-800080?logo=protonvpn&logoColor=white)  
+
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)  
+
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+
 
 ---
 
