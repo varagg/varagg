@@ -25,7 +25,7 @@ sorry to disappoint — I’m more of a “curious skeptic who breaks and secure
 
 ### 🚀 Tech Stack  
 ![IoT](https://img.shields.io/badge/-IoT-0078D6?logo=raspberrypi&logoColor=white)  
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-black?logo=protonvpn&logoColor=white)  
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-800080?logo=protonvpn&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
@@ -33,10 +33,10 @@ sorry to disappoint — I’m more of a “curious skeptic who breaks and secure
 ---
 
 ### 📊 GitHub Stats  
-![Varag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=poovaragamukeshkumar&show_icons=true&theme=radical)  
+![Varag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=varagg&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poovaragamukeshkumar&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varagg&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=poovaragamukeshkumar&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varagg&theme=radical)  
 
 ---
