@@ -1,9 +1,8 @@
 <!-- Typing SVG Banner -->
 <p align="center">
-  <a href="https://github.com/varagg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=9D00FF&center=true&vCenter=true&width=800&lines=Hello%2C+World...+again.;Still+pretending+I+know+what+I'm+doing.;Cybersecurity+is+just+paranoia+with+a+cool+name.;IoT+devices+don't+need+firmware+updates+at+3AM.;Fueled+by+coffee+%26+sarcasm.;Welcome+to+my+README+therapy+session.">
-  </a>
+  <img src="https://readme-glitch.vercel.app/api?text=Varag+%7C+Coffee+%7C+Sarcasm&fontSize=40&duration=3000&pause=500&color=purple" alt="Glitch Banner" />
 </p>
+
 
 ---
 
